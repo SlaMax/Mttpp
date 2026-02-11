@@ -1,0 +1,14 @@
+tests\CheckboxTest.class
+pages\CheckboxPage.class
+pages\AddRemovePage.class
+pages\LoginPage.class
+pages\HomePage.class
+base\CrossBrowserExtension.class
+pages\TablePage.class
+tests\LoginTest.class
+base\BaseTest.class
+tests\AddRemoveTest.class
+pages\DropdownPage.class
+tests\DropdownTest.class
+tests\TableTests.class
+pages\DragDropPage.class

@@ -1,0 +1,65 @@
+19:06:58.483 [main] INFO  base.BaseTest - Setup pokrenut za browser: chrome, Grid: false
+19:06:58.875 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+19:06:58.907 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\SlaMax\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+19:07:00.150 [main] INFO  base.BaseTest - Chrome driver inicijaliziran (LOCAL)
+19:07:00.203 [main] INFO  base.BaseTest - WebDriver uspješno inicijaliziran
+19:07:03.075 [main] INFO  base.BaseTest - WebDriver ugašen
+19:07:03.268 [main] INFO  base.BaseTest - Setup pokrenut za browser: chrome, Grid: false
+19:07:03.289 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+19:07:03.310 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\SlaMax\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+19:07:04.063 [main] INFO  base.BaseTest - Chrome driver inicijaliziran (LOCAL)
+19:07:04.113 [main] INFO  base.BaseTest - WebDriver uspješno inicijaliziran
+19:07:06.720 [main] INFO  base.BaseTest - WebDriver ugašen
+19:07:06.736 [main] INFO  base.BaseTest - Setup pokrenut za browser: chrome, Grid: false
+19:07:06.755 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+19:07:06.764 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\SlaMax\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+19:07:07.546 [main] INFO  base.BaseTest - Chrome driver inicijaliziran (LOCAL)
+19:07:07.596 [main] INFO  base.BaseTest - WebDriver uspješno inicijaliziran
+19:07:10.345 [main] INFO  base.BaseTest - WebDriver ugašen
+19:07:10.364 [main] INFO  base.BaseTest - Setup pokrenut za browser: chrome, Grid: false
+19:07:10.383 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+19:07:10.395 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\SlaMax\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+19:07:11.223 [main] INFO  base.BaseTest - Chrome driver inicijaliziran (LOCAL)
+19:07:11.276 [main] INFO  base.BaseTest - WebDriver uspješno inicijaliziran
+19:07:11.276 [main] INFO  tests.LoginTest - Po?injam test validne prijave
+19:07:13.436 [main] INFO  tests.LoginTest - Unosim kredencijale: tomsmith
+19:07:14.247 [main] INFO  tests.LoginTest - Provjera uspješne poruke: You logged into a secure area!
+×
+19:07:14.247 [main] INFO  tests.LoginTest - Test validne prijave uspješan
+19:07:14.538 [main] INFO  base.BaseTest - WebDriver ugašen
+19:07:14.557 [main] INFO  base.BaseTest - Setup pokrenut za browser: chrome, Grid: false
+19:07:14.576 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+19:07:14.583 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\SlaMax\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+19:07:15.383 [main] INFO  base.BaseTest - Chrome driver inicijaliziran (LOCAL)
+19:07:15.441 [main] INFO  base.BaseTest - WebDriver uspješno inicijaliziran
+19:07:18.198 [main] INFO  base.BaseTest - WebDriver ugašen
+19:07:18.203 [main] INFO  base.BaseTest - Setup pokrenut za browser: chrome, Grid: false
+19:07:18.221 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+19:07:18.230 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\SlaMax\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+19:07:19.098 [main] INFO  base.BaseTest - Chrome driver inicijaliziran (LOCAL)
+19:07:19.147 [main] INFO  base.BaseTest - WebDriver uspješno inicijaliziran
+19:07:21.853 [main] INFO  base.BaseTest - WebDriver ugašen
+19:07:21.860 [main] INFO  base.BaseTest - Setup pokrenut za browser: chrome, Grid: false
+19:07:21.873 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+19:07:21.884 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\SlaMax\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+19:07:22.695 [main] INFO  base.BaseTest - Chrome driver inicijaliziran (LOCAL)
+19:07:22.743 [main] INFO  base.BaseTest - WebDriver uspješno inicijaliziran
+19:07:25.526 [main] INFO  base.BaseTest - WebDriver ugašen
+19:07:25.533 [main] INFO  base.BaseTest - Setup pokrenut za browser: chrome, Grid: false
+19:07:25.547 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+19:07:25.553 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\SlaMax\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+19:07:26.358 [main] INFO  base.BaseTest - Chrome driver inicijaliziran (LOCAL)
+19:07:26.408 [main] INFO  base.BaseTest - WebDriver uspješno inicijaliziran
+19:07:28.944 [main] INFO  base.BaseTest - WebDriver ugašen
+19:07:28.953 [main] INFO  base.BaseTest - Setup pokrenut za browser: chrome, Grid: false
+19:07:28.963 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+19:07:28.973 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\SlaMax\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+19:07:29.723 [main] INFO  base.BaseTest - Chrome driver inicijaliziran (LOCAL)
+19:07:29.777 [main] INFO  base.BaseTest - WebDriver uspješno inicijaliziran
+19:07:32.629 [main] INFO  base.BaseTest - WebDriver ugašen
+19:07:32.637 [main] INFO  base.BaseTest - Setup pokrenut za browser: chrome, Grid: false
+19:07:32.649 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.133 (resolved driver for Chrome 144)
+19:07:32.658 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\SlaMax\.cache\selenium\chromedriver\win64\144.0.7559.133\chromedriver.exe
+19:07:33.435 [main] INFO  base.BaseTest - Chrome driver inicijaliziran (LOCAL)
+19:07:33.485 [main] INFO  base.BaseTest - WebDriver uspješno inicijaliziran
+19:07:36.343 [main] INFO  base.BaseTest - WebDriver ugašen
